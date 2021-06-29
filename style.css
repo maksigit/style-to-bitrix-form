@@ -11,3 +11,17 @@
 section.g-pt-50 {
  padding-top: 1px !important;
 }
+
+@media (min-width: 0) {
+.landing-block.g-pt-50 {
+ padding: 1px !important;
+}
+
+div.landing-node-form-container {
+   padding: 0 !important;
+}
+}
+
+div.landing-node-form-container {
+   padding: 0 !important;
+}
